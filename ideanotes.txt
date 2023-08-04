@@ -1,0 +1,10 @@
+header with text
+
+2 images grayed out
+
+start game button (maybe green)
+
+starts game with 2 images that are similar but one is human
+
+either immediate end with answer or high score type game
+
